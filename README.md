@@ -16,6 +16,9 @@ This project demonstrates a simple data engineering task that reads data from a 
 4. Run the script with `python imdb_movie_analysis.py`.
 5. Check the generated bar chart `top_genres.png` in the project folder, showing the number of movies in each genre with a rating of 8.0 or higher.
 
+![Top Genres](./top_genres.png)
+
+
 ## License
 
 This project is licensed under the MIT License.
